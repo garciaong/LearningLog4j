@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.log4j.test.Log4jTester
+Class-Path: lib/log4j-1.2.15.jar lib/mail-1.4.jar
+
+Name: com/log4j/test
+Sealed: true
+
